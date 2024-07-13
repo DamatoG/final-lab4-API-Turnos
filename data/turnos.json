@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "empleadoId": 1,
+    "clienteNombre": "Ana García",
+    "clienteTelefono": "555123456",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "09:00"
+  },
+  {
+    "id": 1,
+    "empleadoId": 1,
+    "clienteNombre": "Ana García",
+    "clienteTelefono": "555123456",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "10:00"
+  },
+  {
+    "id": 1,
+    "empleadoId": 1,
+    "clienteNombre": "Ana García",
+    "clienteTelefono": "555123456",
+    "servicioId": 1,
+    "fecha": "2024-07-12",
+    "hora": "10:00"
+  },
+  {
+    "id": 1,
+    "empleadoId": 1,
+    "clienteNombre": "Ana García",
+    "clienteTelefono": "555123456",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "09:30"
+  },
+  {
+    "id": 2,
+    "empleadoId": 2,
+    "clienteNombre": "Carlos Rodríguez",
+    "clienteTelefono": "555987654",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "17:00"
+  },
+  {
+    "id": 2,
+    "empleadoId": 2,
+    "clienteNombre": "Carlos Rodríguez",
+    "clienteTelefono": "555987654",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "13:00"
+  },
+  {
+    "id": 2,
+    "empleadoId": 2,
+    "clienteNombre": "Carlos Rodríguez",
+    "clienteTelefono": "555987654",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "13:30"
+  },{
+    "id": 1,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 1",
+    "clienteTelefono": "555111111",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "09:00"
+},
+{
+    "id": 2,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 2",
+    "clienteTelefono": "555222222",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "09:30"
+},
+{
+    "id": 3,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 3",
+    "clienteTelefono": "555333333",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "10:00"
+},
+{
+    "id": 4,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 4",
+    "clienteTelefono": "555444444",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "10:30"
+},
+{
+    "id": 5,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 5",
+    "clienteTelefono": "555555555",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "11:00"
+},
+{
+    "id": 6,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 6",
+    "clienteTelefono": "555666666",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "11:30"
+},
+{
+    "id": 7,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 7",
+    "clienteTelefono": "555777777",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "12:00"
+},
+{
+    "id": 8,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 8",
+    "clienteTelefono": "555888888",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "12:30"
+},
+{
+    "id": 9,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 9",
+    "clienteTelefono": "555999999",
+    "servicioId": 1,
+    "fecha": "2024-07-11",
+    "hora": "13:00"
+},
+{
+    "id": 10,
+    "empleadoId": 4,
+    "clienteNombre": "Carlos Rodríguez",
+    "clienteTelefono": "555987654",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "13:30"
+},
+{
+    "id": 11,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 11",
+    "clienteTelefono": "555111112",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "14:00"
+},
+{
+    "id": 12,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 12",
+    "clienteTelefono": "555222223",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "14:30"
+},
+{
+    "id": 13,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 13",
+    "clienteTelefono": "555333334",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "15:00"
+},
+{
+    "id": 14,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 14",
+    "clienteTelefono": "555444445",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "15:30"
+},
+{
+    "id": 15,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 15",
+    "clienteTelefono": "555555556",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "16:00"
+},
+{
+    "id": 16,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 16",
+    "clienteTelefono": "555666667",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "16:30"
+},
+{
+    "id": 17,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 17",
+    "clienteTelefono": "555777778",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "17:00"
+},
+{
+    "id": 18,
+    "empleadoId": 4,
+    "clienteNombre": "Cliente 18",
+    "clienteTelefono": "555888889",
+    "servicioId": 2,
+    "fecha": "2024-07-11",
+    "hora": "17:30"
+}
+]

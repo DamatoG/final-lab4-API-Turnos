@@ -1,0 +1,30 @@
+[
+    {
+      "ID_Empleado": 1,
+      "nombre": "Juan Pérez",
+      "correo": "juan@ejemplo.com",
+      "telefono": "123456789",
+      "fechaIngreso": "2023-01-15"
+    },
+    {
+      "ID_Empleado": 2,
+      "nombre": "María López",
+      "correo": "maria@ejemplo.com",
+      "telefono": "987654321",
+      "fechaIngreso": "2023-03-20"
+    },
+    {
+        "ID_Empleado": 3,
+        "nombre": "Rogelio Aguero",
+        "correo": "Rogelio@ejemplo.com",
+        "telefono": "2945236985",
+        "fechaIngreso": "2023-01-15"
+      },
+      {
+        "ID_Empleado": 4,
+        "nombre": "Sebastian Dominguez",
+        "correo": "Sebastian@ejemplo.com",
+        "telefono": "2914455886",
+        "fechaIngreso": "2023-03-20"
+      }
+  ]
